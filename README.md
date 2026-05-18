@@ -47,6 +47,6 @@ RGB LED Matrix Shield for Arduino Nano ESP32  WiFi-controlled 13×8 WS2812B LED 
 | 5V         | 5V        |
 | GND        | GND       |
 
-## Video 
+## Wiki
 
-[Video](./imgs/webui_op.mp4)
+[52Pi Wiki](https://wiki.52pi.com/index.php?title=EP-0263)
