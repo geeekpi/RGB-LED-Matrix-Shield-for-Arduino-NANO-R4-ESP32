@@ -35,6 +35,10 @@ RGB LED Matrix Shield for Arduino Nano ESP32  WiFi-controlled 13×8 WS2812B LED 
 - `chase`, `breathe`, `theater`, `larson`, `twinkle` — Standard patterns
 - `solid` — Static red
 
+![WebUI](./imgs/esp32_led_matrix_control_web-ui.png)
+
+![WebUI2](./imgs/esp32_led_matrix_control_web-ui-02.png)
+
 ## Wiring
 
 | LED Matrix | Nano ESP32 |
@@ -42,3 +46,7 @@ RGB LED Matrix Shield for Arduino Nano ESP32  WiFi-controlled 13×8 WS2812B LED 
 | DIN        | D11       |
 | 5V         | 5V        |
 | GND        | GND       |
+
+## Video 
+
+[Video](./imgs/webui_op.mp4)
